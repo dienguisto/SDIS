@@ -1,0 +1,5 @@
+_assetic:
+    resource: .
+    type: assetic
+_app:
+    resource: /home/motogara/public_html/sdis/app/config/routing_dev.yml
